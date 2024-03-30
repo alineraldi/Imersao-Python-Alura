@@ -1,1 +1,1 @@
-![Imersao_Python_Capa](/Imersao-Python-Alura/Cover_Imersao_Python.jpeg)
+![Imersao_Python_Capa](https://media.licdn.com/dms/image/D4D10AQGhgv8uSTgCOg/image-shrink_800/0/1709533183814/Arte4_Imerso_Python__1080x1920_V1png?e=2147483647&v=beta&t=1C-nctA8vmMBEt9663c-XRDo366b9YZinJ-iqhvgh20)
