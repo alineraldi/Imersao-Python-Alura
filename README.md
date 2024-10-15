@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Aprendi, na prática, sobre manipulação de dados e criação de gráficos utilizando bibliotecas Python.  <br>  I learned, in practice, about data manipulation and creating graphs using Python libraries.</p>
+<p align="left">Aprendi, na prática, sobre manipulação de dados e criação de gráficos utilizando bibliotecas Python (NumPy, Pandas, Scikit-learn).  <br>  I learned, in practice, about data manipulation and creating graphs using Python libraries.</p>
 
 ###
 
